@@ -1,0 +1,1 @@
+first script on Linux
